@@ -1,0 +1,6 @@
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\Basic Submission\bin\Debug\Basic Submission.exe
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\Basic Submission\bin\Debug\Basic Submission.pdb
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\Basic Submission\obj\Debug\Basic Submission.csproj.AssemblyReference.cache
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\Basic Submission\obj\Debug\Basic Submission.csproj.CoreCompileInputs.cache
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\Basic Submission\obj\Debug\Basic Submission.exe
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\Basic Submission\obj\Debug\Basic Submission.pdb
