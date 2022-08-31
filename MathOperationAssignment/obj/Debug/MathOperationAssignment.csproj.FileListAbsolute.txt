@@ -1,0 +1,6 @@
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\MathOperationAssignment\bin\Debug\MathOperationAssignment.exe
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\MathOperationAssignment\bin\Debug\MathOperationAssignment.pdb
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\MathOperationAssignment\obj\Debug\MathOperationAssignment.csproj.AssemblyReference.cache
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\MathOperationAssignment\obj\Debug\MathOperationAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\MathOperationAssignment\obj\Debug\MathOperationAssignment.exe
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\MathOperationAssignment\obj\Debug\MathOperationAssignment.pdb

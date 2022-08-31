@@ -1,0 +1,5 @@
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\Income Comparison Assignment\bin\Debug\Income Comparison Assignment.exe
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\Income Comparison Assignment\bin\Debug\Income Comparison Assignment.pdb
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\Income Comparison Assignment\obj\Debug\Income Comparison Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\Income Comparison Assignment\obj\Debug\Income Comparison Assignment.exe
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\Income Comparison Assignment\obj\Debug\Income Comparison Assignment.pdb

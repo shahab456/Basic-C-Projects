@@ -1,0 +1,6 @@
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\DailyReportAssignment\bin\Debug\DailyReportAssignment.exe
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\DailyReportAssignment\bin\Debug\DailyReportAssignment.pdb
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\DailyReportAssignment\obj\Debug\DailyReportAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\DailyReportAssignment\obj\Debug\DailyReportAssignment.exe
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\DailyReportAssignment\obj\Debug\DailyReportAssignment.pdb
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\DailyReportAssignment\obj\Debug\DailyReportAssignment.csproj.AssemblyReference.cache
