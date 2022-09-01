@@ -1,0 +1,5 @@
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\LoopAssignment\bin\Debug\LoopAssignment.exe
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\LoopAssignment\bin\Debug\LoopAssignment.pdb
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\LoopAssignment\obj\Debug\LoopAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\LoopAssignment\obj\Debug\LoopAssignment.exe
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\LoopAssignment\obj\Debug\LoopAssignment.pdb

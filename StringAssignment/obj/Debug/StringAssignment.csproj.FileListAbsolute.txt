@@ -1,0 +1,5 @@
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\StringAssignment\bin\Debug\StringAssignment.exe
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\StringAssignment\bin\Debug\StringAssignment.pdb
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\StringAssignment\obj\Debug\StringAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\StringAssignment\obj\Debug\StringAssignment.exe
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\StringAssignment\obj\Debug\StringAssignment.pdb

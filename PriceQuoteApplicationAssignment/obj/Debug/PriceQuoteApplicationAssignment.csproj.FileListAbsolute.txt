@@ -1,0 +1,5 @@
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\PriceQuoteApplicationAssignment\bin\Debug\PriceQuoteApplicationAssignment.exe
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\PriceQuoteApplicationAssignment\bin\Debug\PriceQuoteApplicationAssignment.pdb
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\PriceQuoteApplicationAssignment\obj\Debug\PriceQuoteApplicationAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\PriceQuoteApplicationAssignment\obj\Debug\PriceQuoteApplicationAssignment.exe
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\PriceQuoteApplicationAssignment\obj\Debug\PriceQuoteApplicationAssignment.pdb

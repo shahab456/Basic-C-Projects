@@ -1,0 +1,6 @@
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\BooleanLogicAssignment\bin\Debug\BooleanLogicAssignment.exe
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\BooleanLogicAssignment\bin\Debug\BooleanLogicAssignment.pdb
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.csproj.AssemblyReference.cache
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.exe
+C:\Users\Mehrdad\Source\Repos\Basic-CSharp-Projects\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.pdb
